@@ -4,6 +4,6 @@
     Ejercicios Inteligencia Artificial
   </header>
   <p>
-    aqui se alojaran las tareas confore estemos avanzando la trayectoria del curso.
+    Aqui se alojaran las tareas conforme estemos avanzando la trayectoria del curso.
   </p>
 </main>
